@@ -4,7 +4,7 @@ shared.stop = false
 
 shared.nospacedelay = shared.nospacedelay or false
 
-local str = shared.scr or "qw[er]ty"
+local str = shared.scr
 local FinishTime = shared.ftime or 10
 
 local vim = game:GetService("VirtualInputManager")
